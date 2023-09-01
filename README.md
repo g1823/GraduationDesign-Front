@@ -31,3 +31,5 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 &nbsp;&nbsp;&nbsp;&nbsp;vuex的store
 **6.views**
 &nbsp;&nbsp;&nbsp;&nbsp;路由组件
+**7.request**
+&nbsp;&nbsp;&nbsp;&nbsp;封装的Axios
